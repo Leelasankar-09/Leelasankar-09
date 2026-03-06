@@ -1,7 +1,11 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Leela%20Sankar%20Reddy&fontSize=40&fontColor=ffffff"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Leela Sankar Reddy</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer;DSA+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer;DSA+Learner;Full+Stack+Developer;Machine+Learning+Explorer"/>
 </p>
 
 ---
@@ -22,19 +26,10 @@
 
 # 🛠 Tech Stack
 
-### Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,sql,cpp"/>
-</p>
 
-### Web Development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nextjs,nodejs,express,tailwind,mongodb,git,github,vscode"/>
 
-### Tools & Databases
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,mongodb,vscode"/>
 </p>
 
 ---
@@ -43,9 +38,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leelasankar-09&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Leelasankar-09&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leelasankar-09&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leelasankar-09&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -55,13 +50,13 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leelasankar-09&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=Leelasankar-09&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 LeetCode Stats
+# 🧠 LeetCode Stats
 
 <p align="center">
 
@@ -71,55 +66,31 @@
 
 ---
 
-# 🚀 Projects
+# 📈 GitHub Activity Graph
 
-### 🧠 Brain Tumor Detection using Deep Learning
+<p align="center">
 
-Tech Stack: **Python, TensorFlow, VGG16, OpenCV**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leelasankar-09&theme=tokyo-night"/>
 
-- Built a deep learning model to classify brain tumor MRI images
-- Used **transfer learning with VGG16**
-- Applied **data augmentation for better accuracy**
-- Implemented **Grad-CAM visualization for interpretability**
-
-🔗 Notebook  
-https://colab.research.google.com/drive/1Xq0XZbByVI29kcvscWui0UfYYfUvRxGj?usp=sharing
+</p>
 
 ---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/Leelasankar-09/Leelasankar-09/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🚀 Projects
+
+### 🧠 Brain Tumor Detection
+
+Deep learning model using **VGG16 + TensorFlow** for MRI tumor classification.
 
 ### 🤝 Smart Team Formation System
 
-Tech Stack: **React, FastAPI, Python**
-
-- Built a web app to generate balanced teams based on skills
-- Implemented **Knapsack based algorithm**
-- Added **leaderboard and team reformation**
-- Full stack implementation
-
----
-
-# 📚 Education
-
-🎓 **Amrita Vishwa Vidyapeetham**  
-BTech Computer Science and Engineering  
-CGPA: **7.2**
-
----
-
-# 🏆 Achievements
-
-🏅 Qualified **JEE Advanced 2023**
-
-🔬 Qualified **Junior Science Olympiad Round 3**
-
----
-
-# 🎯 Areas of Interest
-
-- Data Structures and Algorithms
-- Machine Learning
-- Full Stack Development
-- Building real-world tech products
+Web app using **React + FastAPI** that forms balanced teams using a **Knapsack-based algorithm**.
 
 ---
 
@@ -146,9 +117,15 @@ CGPA: **7.2**
 # 👀 Profile Visitors
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=Leelasankar-09&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
 </p>
 
 ---
 
-⭐ *Always learning new technologies and solving challenging problems.*
+⭐ **Always learning new technologies and solving challenging problems**
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p>
