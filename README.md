@@ -1,31 +1,40 @@
 <h1 align="center">Hi 👋, I'm Leela Sankar Reddy</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;DSA+Learner;Web+Developer;Machine+Learning+Explorer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer;DSA+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 BTech CSE Student at **Amrita University**
+🎓 BTech CSE Student at **Amrita Vishwa Vidyapeetham**
 
-💻 Learning **Data Structures, Machine Learning**
+💻 Passionate about **Problem Solving and Software Development**
 
-🧠 Solving problems on **LeetCode**
+🧠 Solving problems on **LeetCode and Striver DSA Sheet**
 
-🌐 Building **Web Applications & Bots**
+🌐 Building **Web Applications using React and FastAPI**
 
-📚 Following **Striver DSA Sheet**
+🏆 **JEE Advanced 2023 Qualified (Top 15%)**
 
 ---
 
 # 🛠 Tech Stack
 
+### Languages
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,sql,cpp"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,git,github,vscode,mongodb"/>
+### Web Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind"/>
+</p>
 
+### Tools & Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,mongodb,vscode"/>
 </p>
 
 ---
@@ -52,7 +61,7 @@
 
 ---
 
-# 🧠 LeetCode Stats
+# 📈 LeetCode Stats
 
 <p align="center">
 
@@ -62,33 +71,69 @@
 
 ---
 
-# 📈 Striver DSA Sheet
+# 🚀 Projects
 
-✔ Arrays  
-✔ Strings  
-✔ Recursion  
-✔ Linked List  
-✔ Stack & Queue  
-✔ Trees  
-✔ Graphs  
+### 🧠 Brain Tumor Detection using Deep Learning
 
-🚀 Progress updated regularly
+Tech Stack: **Python, TensorFlow, VGG16, OpenCV**
+
+- Built a deep learning model to classify brain tumor MRI images
+- Used **transfer learning with VGG16**
+- Applied **data augmentation for better accuracy**
+- Implemented **Grad-CAM visualization for interpretability**
+
+🔗 Notebook  
+https://colab.research.google.com/drive/1Xq0XZbByVI29kcvscWui0UfYYfUvRxGj?usp=sharing
 
 ---
 
-# 👀 Profile Visitors
+### 🤝 Smart Team Formation System
 
-<p align="center">
+Tech Stack: **React, FastAPI, Python**
 
-<img src="https://komarev.com/ghpvc/?username=Leelasankar-09&label=Profile%20Views&color=blue&style=for-the-badge"/>
+- Built a web app to generate balanced teams based on skills
+- Implemented **Knapsack based algorithm**
+- Added **leaderboard and team reformation**
+- Full stack implementation
 
-</p>
+---
+
+# 📚 Education
+
+🎓 **Amrita Vishwa Vidyapeetham**  
+BTech Computer Science and Engineering  
+CGPA: **7.2**
+
+---
+
+# 🏆 Achievements
+
+🏅 Qualified **JEE Advanced 2023**
+
+🔬 Qualified **Junior Science Olympiad Round 3**
+
+---
+
+# 🎯 Areas of Interest
+
+- Data Structures and Algorithms
+- Machine Learning
+- Full Stack Development
+- Building real-world tech products
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
+
+<a href="https://github.com/Leelasankar-09">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/leela-sankar-reddy-sirigireddy-774976302/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
 <a href="https://leetcode.com/u/DCs07yGZFb/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
@@ -98,6 +143,12 @@
 
 ---
 
+# 👀 Profile Visitors
+
 <p align="center">
-⭐ Always learning new technologies and solving challenging problems.
+<img src="https://komarev.com/ghpvc/?username=Leelasankar-09&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
+
+---
+
+⭐ *Always learning new technologies and solving challenging problems.*
